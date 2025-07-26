@@ -101,19 +101,12 @@ My comprehensive notes and examples while learning JavaScript fundamentals.
 - [x] Object creation and manipulation
 - [x] Loop structures and iteration
 
-### 🔄 Currently Learning
-- Advanced object methods and prototypes
-- Error handling and debugging
-- DOM manipulation
-- Asynchronous JavaScript
-
 ## 💡 How I Learn
 
 - Write detailed notes with examples for every concept
 - Practice each topic immediately with hands-on coding
 - Include real-world examples and use cases
 - Document edge cases and common mistakes
-- Build small projects to reinforce learning
 - Keep everything organized for future reference
 
 ## 🛠️ Code Examples
@@ -124,5 +117,3 @@ Each topic in my notes includes:
 - Common pitfalls and best practices
 - Multiple approaches to solve problems
 - Personal observations and learning insights
-
-## 📁 Repository Structure

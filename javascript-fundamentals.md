@@ -1108,10 +1108,10 @@ Example of a reusable function:
 
 ```javascript
 function reuseme() {
-  console.log("ana zhegeeeettttt");
+  console.log("booooo");
 }
 reuseme(); // Call the function
-// Output: ana zhegeeeettttt
+// Output: booooo
 ```
 
 ### Passing Values to Functions with Arguments
